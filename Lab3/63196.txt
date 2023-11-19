@@ -1,0 +1,6 @@
+[ Sun Nov 19 17:20:53 2023 ] P1 : /s 
+[ Sun Nov 19 17:21:02 2023 ] P1 : Hi~ 
+[ Sun Nov 19 17:21:07 2023 ] P2 : Hello 
+[ Sun Nov 19 17:21:20 2023 ] P1 : my name is osh 
+[ Sun Nov 19 17:21:57 2023 ] P2 : Umm.. i'm sorry, i don't know 
+[ Sun Nov 19 17:22:01 2023 ] P2 : /q 
